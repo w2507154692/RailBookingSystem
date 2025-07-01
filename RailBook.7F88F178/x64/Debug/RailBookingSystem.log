@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.4.0.1
+   Qt: 6.7.3
+  Login.cpp
+  main.cpp
+  qrc_Login.cpp
+  moc_Login.cpp
+  RailBookingSystem.vcxproj -> E:\WYH\Qt\RailBookingSystem\x64\Debug\RailBookingSystem.exe
