@@ -7,6 +7,7 @@
 !/*.ui
 !/*.qrc
 !/*.md
+!/*.qss
 
 # 但还是要忽略.gitignore本身以外的所有内容
 !.gitignore
